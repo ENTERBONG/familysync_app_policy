@@ -10,10 +10,10 @@
 
 | 문서 | URL |
 |---|---|
-| 홈 | https://enterbong.github.io/familiysync_app_policy/ |
-| 개인정보 처리방침 | https://enterbong.github.io/familiysync_app_policy/privacy-policy.html |
-| 서비스 이용약관 | https://enterbong.github.io/familiysync_app_policy/terms-of-service.html |
-| 계정 및 데이터 삭제 안내 | https://enterbong.github.io/familiysync_app_policy/account-deletion.html |
+| 홈 | https://enterbong.github.io/familysync_app_policy/ |
+| 개인정보 처리방침 | https://enterbong.github.io/familysync_app_policy/privacy-policy.html |
+| 서비스 이용약관 | https://enterbong.github.io/familysync_app_policy/terms-of-service.html |
+| 계정 및 데이터 삭제 안내 | https://enterbong.github.io/familysync_app_policy/account-deletion.html |
 
 > **GitHub Pages가 아직 꺼져 있다면**: 저장소 **Settings > Pages**에서
 > Source를 **Deploy from a branch**, Branch를 **`main`**, 폴더를 **`/ (root)`** 로 선택하고 Save 하세요.
