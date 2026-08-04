@@ -1,6 +1,6 @@
-# Family Sync (우리집 일정) 정책 문서 저장소
+# Family Sync (너와나 캘린더) 정책 문서 저장소
 
-가족 일정 공유 앱 **Family Sync (우리집 일정)** 의 공개 정책 페이지를 보관하는 저장소입니다.
+가족 일정 공유 앱 **Family Sync (너와나 캘린더)** 의 공개 정책 페이지를 보관하는 저장소입니다.
 앱 설정 화면과 Google Play 스토어 등록 정보(개인정보 처리방침 URL, 데이터 삭제 URL)에서 이 페이지들을 연결합니다.
 
 - 대상 앱 패키지명: `com.familysync.family_sync`
